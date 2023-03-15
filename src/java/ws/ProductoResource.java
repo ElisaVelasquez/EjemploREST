@@ -60,10 +60,10 @@ public class ProductoResource {
     /**
      * PUT method for updating or creating an instance of ProductoResource
      * @param content representation for the resource
-     */
+     
     @PUT
     @Consumes(MediaType.APPLICATION_JSON)
     public void putJson(entidades.Producto content) {
 		
-    }
+    }*/
 }
