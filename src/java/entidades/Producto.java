@@ -6,7 +6,7 @@ package entidades;
 
 /**
  *
- * @author Paulina Cortez Alamilla.
+ * @author Dianey Elisa Velasquez Busani
  */
 public class Producto {
     private int id; 

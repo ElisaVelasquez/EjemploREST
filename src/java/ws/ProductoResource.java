@@ -20,7 +20,7 @@ import javax.ws.rs.core.Response;
 /**
  * REST Web Service
  *
- * @author Paulina Cortez Alamilla.
+ * @author Dianey Elisa Velasquez Busani
  */
 @Path("producto")
 public class ProductoResource {
